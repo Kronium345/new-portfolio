@@ -1,16 +1,11 @@
 import React from 'react';
-import project1 from '../assets/portfolio/project1.png';
 import project2 from '../assets/portfolio/project2.png';
 import project3 from '../assets/portfolio/project3.png';
-import project4 from '../assets/portfolio/project4.png';
-import project5 from '../assets/portfolio/project5.png';
 import project6 from '../assets/portfolio/project6.png';
 import project7 from '../assets/portfolio/project7.png';
 import project8 from '../assets/portfolio/project8.png';
 import project9 from '../assets/portfolio/project9.png';
 import project10 from '../assets/portfolio/project10.png';
-import project11 from '../assets/portfolio/project11.jpg';
-import project12 from '../assets/portfolio/project12.png';
 import project13 from '../assets/portfolio/project13.png';
 
 
