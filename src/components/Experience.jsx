@@ -5,7 +5,7 @@ import javascript from '../assets/javascript.png';
 import node from '../assets/node.png';
 import reactImage from '../assets/react.png';
 import nextjs from '../assets/nextjs.png';
-import github from '../assets/github.png';
+// import github from '../assets/github.png';
 import tailwind from '../assets/tailwind.png';
 import python from '../assets/python.jpg';
 
@@ -62,12 +62,12 @@ const Experience = () => {
             title: 'Python',
             style: 'shadow-yellow-500'
         },
-        {
-            id: 9,
-            src: github,
-            title: 'GitHub',
-            style: 'shadow-gray-400'
-        }
+        // {
+        //     id: 9,
+        //     src: github,
+        //     title: 'GitHub',
+        //     style: 'shadow-gray-400'
+        // }
     ]
 
   return (
