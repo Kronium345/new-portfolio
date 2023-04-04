@@ -1,11 +1,11 @@
 import React from 'react';
 import project2 from '../assets/portfolio/project2.png';
-import project3 from '../assets/portfolio/project3.png';
+// import project3 from '../assets/portfolio/project3.png';
 import project6 from '../assets/portfolio/project6.png';
 import project7 from '../assets/portfolio/project7.png';
 import project8 from '../assets/portfolio/project8.png';
 import project9 from '../assets/portfolio/project9.png';
-import project10 from '../assets/portfolio/project10.png';
+// import project10 from '../assets/portfolio/project10.png';
 import project13 from '../assets/portfolio/project13.png';
 
 
@@ -23,33 +23,33 @@ const Projects = () => {
       src: project2,
       href: 'https://abbeville-cafe-bites-nn9a.vercel.app/',
     },
+    // {
+    //   id: 3,
+    //   src: project3,
+    //   href: '/files/4th JavaScript Project Folder/project1.html',
+    // },
     {
       id: 3,
-      src: project3,
-      href: '/files/4th JavaScript Project Folder/project1.html',
-    },
-    {
-      id: 4,
       src: project8,
       href: 'https://superhero-database-kjigsg4je-kronium345.vercel.app/',
     },
+    // {
+    //   id: 5,
+    //   src: project10,
+    //   href: '/files/myapp.html',
+    // },
     {
-      id: 5,
-      src: project10,
-      href: '/files/myapp.html',
-    },
-    {
-      id: 6,
+      id: 4,
       src: project6,
       href: 'https://github.com/Kronium345/book-lib',
     },
     {
-      id: 7,
+      id: 5,
       src: project7,
       href: 'https://daniel-s-fitness-app-1.vercel.app/'
     },
     {
-      id: 8,
+      id: 6,
       src: project13,
       href: 'https://cool-thunder-2632.on.fleek.co/'
     },
