@@ -4,7 +4,7 @@ import project2 from '../assets/portfolio/project2.png';
 import project6 from '../assets/portfolio/project6.png';
 import project7 from '../assets/portfolio/project7.png';
 import project8 from '../assets/portfolio/project8.png';
-import project9 from '../assets/portfolio/project9.png';
+import project14 from '../assets/portfolio/project14.png';
 // import project10 from '../assets/portfolio/project10.png';
 import project13 from '../assets/portfolio/project13.png';
 
@@ -15,8 +15,8 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      src: project9,
-      href: 'https://ai-assistant-murex.vercel.app/',
+      src: project14,
+      href: 'https://fighting-game-1a-l5bhymwtg-kronium345.vercel.app/',
     },
     {
       id: 2,
