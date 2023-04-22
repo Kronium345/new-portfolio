@@ -2,11 +2,12 @@ import React from 'react';
 import project2 from '../assets/portfolio/project2.png';
 // import project3 from '../assets/portfolio/project3.png';
 import project6 from '../assets/portfolio/project6.png';
-import project7 from '../assets/portfolio/project7.png';
+// import project7 from '../assets/portfolio/project7.png';
 import project8 from '../assets/portfolio/project8.png';
 import project14 from '../assets/portfolio/project14.png';
 // import project10 from '../assets/portfolio/project10.png';
 import project13 from '../assets/portfolio/project13.png';
+import project15 from '../assets/portfolio/project15.png';
 
 
 
@@ -45,8 +46,8 @@ const Projects = () => {
     },
     {
       id: 5,
-      src: project7,
-      href: 'https://daniel-s-fitness-app-1.vercel.app/'
+      src: project15,
+      href: 'https://danielawolowo-gym.netlify.app/'
     },
     {
       id: 6,
