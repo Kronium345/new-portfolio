@@ -57,7 +57,7 @@ const Projects = () => {
       src: project13,
       href: 'https://cool-thunder-2632.on.fleek.co/'
     },
-    // {
+    {
        id: 7,
        src: project21,
        href: 'https://car-showcase-phi-three.vercel.app/'
