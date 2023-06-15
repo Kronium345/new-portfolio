@@ -9,6 +9,7 @@ import project14 from '../assets/portfolio/project14.png';
 import project13 from '../assets/portfolio/project13.png';
 import project15 from '../assets/portfolio/project15.png';
 import project16 from '../assets/portfolio/project16.png';
+import project21 from '../assets/portfolio/project21.png';
 
 
 
@@ -57,9 +58,10 @@ const Projects = () => {
       href: 'https://cool-thunder-2632.on.fleek.co/'
     },
     // {
-    //   id: 9,
-    //   src: project9
-    // },
+       id: 7,
+       src: project21,
+       href: 'https://car-showcase-phi-three.vercel.app/'
+    },
     // {
     //   id: 10,
     //   src: project10
