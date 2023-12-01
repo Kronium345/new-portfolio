@@ -5,7 +5,7 @@ import project2 from '../assets/portfolio/project2.png';
 // import project7 from '../assets/portfolio/project7.png';
 // import project8 from '../assets/portfolio/project8.png';
 import project14 from '../assets/portfolio/project14.png';
-import project10 from '../assets/portfolio/project10.png';
+// import project10 from '../assets/portfolio/project10.png';
 import project13 from '../assets/portfolio/project13.png';
 import project15 from '../assets/portfolio/project15.png';
 import project16 from '../assets/portfolio/project16.png';
