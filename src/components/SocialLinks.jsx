@@ -41,7 +41,7 @@ const links = [
             Resume <BsFillPersonLinesFill size={30} />
             </>
         ),
-        href: '/Daniel Awolowo - CV.pdf',
+        href: '/Daniel Awolowo - CV (1) (1).pdf',
         style: 'rounded-br-md',
         download: true,
     }
