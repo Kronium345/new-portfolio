@@ -10,6 +10,7 @@ import project13 from '../assets/portfolio/project13.png';
 import project15 from '../assets/portfolio/project15.png';
 import project16 from '../assets/portfolio/project16.png';
 import project21 from '../assets/portfolio/project21.png';
+import project26 from '../assets/portfolio/project26.png';
 
 
 
@@ -34,8 +35,8 @@ const Projects = () => {
     // },
     {
       id: 3,
-      src: project8,
-      href: 'https://superhero-database-kjigsg4je-kronium345.vercel.app/',
+      src: project26,
+      href: 'https://chattercraft.vercel.app/sign-in',
     },
     // {
     //   id: 5,
