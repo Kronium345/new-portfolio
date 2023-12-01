@@ -36,7 +36,7 @@ const Projects = () => {
     {
       id: 3,
       src: project26,
-      href: 'https://chattercraft.vercel.app/sign-in',
+      href: 'https://chattercraft.vercel.app/',
     },
     // {
     //   id: 5,
