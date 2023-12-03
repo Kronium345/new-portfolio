@@ -29,13 +29,13 @@ const Projects = () => {
       src: project2,
       href: 'https://abbeville-cafe-bites-nn9a.vercel.app/',
     },
-    // {
-    //   id: 3,
-    //   src: project3,
-    //   href: '/files/4th JavaScript Project Folder/project1.html',
-    // },
     {
-      id: 3,
+       id: 3,
+       src: project27,
+       href: 'https://ai-image-generator-beryl-alpha.vercel.app/',
+     },
+    {
+      id: 4,
       src: project26,
       href: 'https://chattercraft.vercel.app/',
     },
@@ -45,29 +45,29 @@ const Projects = () => {
     //   href: '/files/myapp.html',
     // },
     {
-      id: 4,
+      id: 5,
       src: project16,
       href: 'https://64595add6b85f22dc8dd9556--stellar-sprite-99a993.netlify.app/',
     },
     {
-      id: 5,
+      id: 6,
       src: project15,
       href: 'https://danielawolowo-gym.netlify.app/'
     },
     {
-      id: 6,
+      id: 7,
       src: project13,
       href: 'https://cool-thunder-2632.on.fleek.co/'
     },
     {
-       id: 7,
+       id: 8,
        src: project21,
        href: 'https://car-showcase-phi-three.vercel.app/'
     },
-    {
-       id: 8,
-       src: project27
-      href: 'https://ai-image-generator-beryl-alpha.vercel.app/'
+    // {
+    //   id: 8,
+     //  src: project27
+    //  href: 'https://ai-image-generator-beryl-alpha.vercel.app/'
      },
     // {
     //   id: 11,
