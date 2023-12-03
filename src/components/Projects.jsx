@@ -11,7 +11,7 @@ import project15 from '../assets/portfolio/project15.png';
 import project16 from '../assets/portfolio/project16.png';
 import project21 from '../assets/portfolio/project21.png';
 import project26 from '../assets/portfolio/project26.png';
-import project27 from '../assets/portfolio/project27.png';
+// import project27 from '../assets/portfolio/project27.png';
 
 
 
@@ -29,13 +29,13 @@ const Projects = () => {
       src: project2,
       href: 'https://abbeville-cafe-bites-nn9a.vercel.app/',
     },
-    {
-       id: 3,
-       src: project27,
-       href: 'https://ai-image-generator-beryl-alpha.vercel.app/',
+    // {
+    //   id: 3,
+    //   src: project27,
+    //   href: 'https://ai-image-generator-beryl-alpha.vercel.app/',
      },
     {
-      id: 4,
+      id: 3,
       src: project26,
       href: 'https://chattercraft.vercel.app/',
     },
@@ -45,22 +45,22 @@ const Projects = () => {
     //   href: '/files/myapp.html',
     // },
     {
-      id: 5,
+      id: 4,
       src: project16,
       href: 'https://64595add6b85f22dc8dd9556--stellar-sprite-99a993.netlify.app/',
     },
     {
-      id: 6,
+      id: 5,
       src: project15,
       href: 'https://danielawolowo-gym.netlify.app/'
     },
     {
-      id: 7,
+      id: 6,
       src: project13,
       href: 'https://cool-thunder-2632.on.fleek.co/'
     },
     {
-       id: 8,
+       id: 7,
        src: project21,
        href: 'https://car-showcase-phi-three.vercel.app/'
     },
