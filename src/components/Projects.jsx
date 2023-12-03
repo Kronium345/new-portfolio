@@ -11,6 +11,7 @@ import project15 from '../assets/portfolio/project15.png';
 import project16 from '../assets/portfolio/project16.png';
 import project21 from '../assets/portfolio/project21.png';
 import project26 from '../assets/portfolio/project26.png';
+import project27 from '../assets/portfolio/project27.png';
 
 
 
@@ -63,10 +64,11 @@ const Projects = () => {
        src: project21,
        href: 'https://car-showcase-phi-three.vercel.app/'
     },
-    // {
-    //   id: 10,
-    //   src: project10
-    // },
+    {
+       id: 8,
+       src: project27
+      href: 'https://ai-image-generator-beryl-alpha.vercel.app/'
+     },
     // {
     //   id: 11,
     //   src: project11
